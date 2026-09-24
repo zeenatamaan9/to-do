@@ -1,2 +1,2 @@
 # to-do
-my first project
+this is to-do app.
